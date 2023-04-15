@@ -1,0 +1,1 @@
+export const BACKENDHOST = 'https://yapi.hustunique.com/api/v1'
